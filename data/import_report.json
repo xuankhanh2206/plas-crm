@@ -1,0 +1,33 @@
+{
+  "source_file": "BẢNG TỔNG KIỂM KÊ & PHÂN LOẠI HÀNG HÓA TỒN KHO PLAS (1).xlsx",
+  "product_rows_imported": 682,
+  "pnt_units": 998,
+  "nlb_units": 1096,
+  "ht_units": 8687,
+  "cost_inventory_value": 16985652000,
+  "retail_inventory_value": 28309420000,
+  "missing_sku": 682,
+  "missing_brand": 8,
+  "zero_list_price": 8,
+  "zero_cost_price": 8,
+  "categories": {
+    "Lọ hoa": 267,
+    "Âu": 114,
+    "Ly": 90,
+    "Cốc": 55,
+    "Bộ bình rượu": 39,
+    "Bộ trà": 34,
+    "Đĩa": 18,
+    "Bộ đồ ăn": 17,
+    "Gạt tàn": 10,
+    "Chén": 9,
+    "Hàng phôi chưa mài": 8,
+    "Khác": 6,
+    "Bình rượu lẻ": 4,
+    "Bộ bình nước": 4,
+    "Đèn": 3,
+    "Bình lắc": 2,
+    "Khung ảnh": 1,
+    "khác": 1
+  }
+}
